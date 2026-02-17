@@ -16,7 +16,7 @@
 * On GitHub:
   * Create a pull request (PR) to the original repo
   * Use **YOUR_STUDENT_ID** as the PR title
-  * Submit by **Friday March 7, 2024 1:00pm (GMT+7)**.
+  * Submit by **Friday Febuary 27, 2024 1:00pm (GMT+7)**.
   * Leave the PR open after submission.
 * Your PR must include the following:
   * Your answers of all questions.
