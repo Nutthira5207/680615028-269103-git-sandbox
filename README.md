@@ -35,9 +35,25 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+1. ls
+
+Function:
+The ls command lists files and directories in the current directory or in a specified path.
+
+Why it is essential for new engineers:
+This command helps engineers understand the project structure and quickly check what files are available. It is one of the most basic and frequently used commands when working in a Linux environment.
+
+2. grep
+
+Function:
+The grep command searches for specific text or patterns inside files or command outputs.
+
+Why it is essential for new engineers:
+It allows engineers to quickly find important information, such as errors in log files or specific code snippets in large projects. This improves efficiency and saves time when debugging or analyzing data.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+After studying in the ISNE program for one and a half years, the advice I would like to give to students who are interested in this program is to be well prepared in managing your time and to stay consistent with your studies. The courses can be quite challenging, so reviewing the lessons regularly is very important.
+
+Do not hesitate to ask questions when you do not understand something, and try to practice your practical skills as much as possible. Most importantly, maintain your curiosity and motivation to learn, because the effort you put in will greatly affect your grades and your future career goals.
